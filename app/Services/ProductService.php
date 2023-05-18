@@ -19,7 +19,7 @@ class ProductService
     {
        $product = Product::create($data);
        $product->details()->create($data);
-//       Event::dispatch(new NewProductEvent($product));
+       Event::dispatch(new NewProductEvent($product));
        return $product;
     }
 
