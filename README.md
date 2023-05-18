@@ -38,7 +38,7 @@
     Mail (server Mailtrap)
     
 ### Psotman File 
-    todo.postman_collection.json  => file postman  to import in your postman .\
+    todo.postman_collection.json  => file postman  to import in your postman .
     
 ### About TODO APP API
     
