@@ -2,7 +2,6 @@
 ## Quick Installation
 
     git clone git@github.com:SamuelGerges/todo-app.git
-
     cd SD_Project/
     
 ### Composer
